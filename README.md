@@ -85,3 +85,7 @@ The references section lists the sources cited in the project for further readin
 
 ## Run the app
 `python app.py`
+
+
+## Mediapipe Documentation
+https://gith
