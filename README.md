@@ -1,4 +1,4 @@
-*Project Title:* Usability Assessment of Gesture Controlled Interfaces in Gaming Applications for Parkinson’s Disease Patients
+# *Project Title:* Usability Assessment of Gesture Controlled Interfaces in Gaming Applications for Parkinson’s Disease Patients
 
 *Authors:*
 1. Murari B Deshpande
