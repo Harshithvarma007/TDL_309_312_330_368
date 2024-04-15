@@ -87,5 +87,3 @@ The references section lists the sources cited in the project for further readin
 `python app.py`
 
 
-## Mediapipe Documentation
-()[!'Data\hand-landmarks.png']
