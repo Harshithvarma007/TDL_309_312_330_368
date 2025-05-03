@@ -1,8 +1,8 @@
 # *Project Title:* Usability Assessment of Gesture Controlled Interfaces in Gaming Applications for Parkinson’s Disease Patients
 
 *Authors:*
-1. Murari B Deshpande
-2. N Sai Harshith Varma
+1. N Sai Harshith Varma
+2. Murari B Deshpande
 3. Netra D Patel
 4. Patel Kashish Harshadbhai
 
